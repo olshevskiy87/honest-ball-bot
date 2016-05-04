@@ -1,0 +1,12 @@
+{
+    "telegram_bot": {
+        "name": "MothersLittleHelper",
+        "username": "MothersLittleHelper_bot",
+        "token": ""
+    },
+    "answers": [
+        "yes",
+        "no",
+        "i don't know"
+    ]
+}
